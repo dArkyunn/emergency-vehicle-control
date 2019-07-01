@@ -147,7 +147,7 @@ mp.events.add('inputHorn', _ => {
     }
 })
 
-mp.events.add('inputWithModifQ', _ => {
+mp.events.add('inputWithModifStage', _ => {
     let entity = mp.players.local.vehicle
     if (entity && entity.type === 'vehicle' && entity.getClass() === 18) {
 

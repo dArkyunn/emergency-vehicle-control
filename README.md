@@ -46,7 +46,7 @@ There are **3** lightning stages
 * *Stage 2* - Only lights
 * *Stage 3* - Lights with capability to toggle sirens
 
-You can move freely between stages using *Q* and *Ctrl*Q*.
+You can move freely between stages using *Q* and *Ctrl+Q*.
 
 When going from *Stage 3* down to *Stage 2* your sirens will automatically get toggled off.
 
